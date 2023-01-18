@@ -80,3 +80,11 @@ body {
   -moz-transition: all .44s ease;
 }
 .auth-button:hover { filter: brightness(145%); }
+
+.chat-wrapper {
+  height: 80%; 
+  width: 80%;
+  margin-left: 10%; 
+  color: white; 
+  background: rgb(43, 47, 60);
+}
