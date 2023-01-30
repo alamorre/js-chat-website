@@ -82,7 +82,7 @@ body {
 .auth-button:hover { filter: brightness(145%); }
 
 .chat-wrapper {
-  height: 80%; 
+  height: 80vh; 
   width: 80%;
   margin-left: 10%; 
   color: white; 
